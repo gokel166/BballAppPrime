@@ -1,0 +1,6 @@
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BballAppPrime\BballData\bin\Debug\netcoreapp2.0\BballData.deps.json
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BballAppPrime\BballData\bin\Debug\netcoreapp2.0\BballData.dll
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BballAppPrime\BballData\obj\Debug\netcoreapp2.0\BballData.csprojResolveAssemblyReference.cache
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BballAppPrime\BballData\obj\Debug\netcoreapp2.0\BballData.csproj.CoreCompileInputs.cache
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BballAppPrime\BballData\obj\Debug\netcoreapp2.0\BballData.AssemblyInfoInputs.cache
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BballAppPrime\BballData\obj\Debug\netcoreapp2.0\BballData.AssemblyInfo.cs
